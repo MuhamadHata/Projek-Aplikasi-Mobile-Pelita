@@ -1,48 +1,52 @@
-# 🕯️ Pelita - Mobile Application UI/UX Design
+# 🕯️ Pelita - Mobile Health & Nutrition UI/UX Design
 
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/FhsV4fWjx3VstlG7Kd2fjh/Pelita?node-id=2052-1969)
-[![Platform](https://img.shields.io/badge/Platform-Mobile-blue?style=for-the-badge)](https://github.com/MuhamadHata)
+[![Profile](https://img.shields.io/badge/GitHub-MuhamadHata-181717?style=for-the-badge&logo=github)](https://github.com/MuhamadHata)
 
-**Pelita** adalah rancangan aplikasi mobile yang fokus pada [tambahkan deskripsi singkat, misal: monitoring penggunaan energi atau bantuan sosial]. Proyek ini menekankan pada antarmuka yang bersih (clean UI) dan pengalaman pengguna yang mulus (seamless UX).
+**Pelita** adalah rancangan aplikasi kesehatan mobile yang berfokus pada manajemen gizi dan konsultasi kesehatan. Aplikasi ini dirancang untuk membantu pengguna memantau kondisi kesehatan melalui perhitungan gizi yang akurat dan akses mudah ke tenaga ahli.
 
 ## 📌 Daftar Isi
-* [Tentang Proyek](#tentang-proyek)
-* [Tampilan Desain](#tampilan-desain)
-* [Alur Pengguna](#alur-pengguna)
-* [Teknologi & Aset](#teknologi--aset)
-* [Kontak](#kontak)
+* [Fitur Utama](#-fitur-utama)
+* [Tampilan Desain](#-tampilan-desain)
+* [Alur Pengguna](#-alur-pengguna)
+* [Teknologi & Aset](#-teknologi--aset)
 
-## 📖 Tentang Proyek
-Proyek ini dikembangkan untuk menjawab tantangan [sebutkan masalah, misal: sulitnya akses informasi X]. Nama **Pelita** diambil dari filosofi cahaya yang memberikan arah dan kemudahan bagi penggunanya.
-
-### Masalah yang Diselesaikan:
-- [ ] User Interface yang terlalu kompleks pada aplikasi serupa.
-- [ ] Alur pendaftaran yang panjang.
-- [ ] Kurangnya keterbacaan data bagi pengguna awam.
+## ✨ Fitur Utama
+Berdasarkan rancangan pada folder `figma pelita`, aplikasi ini memiliki fitur unggulan:
+* **Kalkulator Gizi:** Menghitung kebutuhan nutrisi harian pengguna secara personal.
+* **Sistem Konsultasi:** Antarmuka khusus untuk berinteraksi langsung dengan konsultan kesehatan.
+* **Manajemen Profil & Password:** Fitur keamanan untuk mengelola data pribadi dan kata sandi pengguna.
+* **Riwayat Kesehatan:** Memantau perkembangan kesehatan dari waktu ke waktu.
 
 ## 🖼️ Tampilan Desain
-*Berikut adalah beberapa cuplikan layar dari desain Pelita:*
+*Aset gambar diambil langsung dari folder [figma pelita](./figma%20pelita):*
 
-| High-Fidelity Design | Prototype Flow |
-|---|---|
-| ![Landing Screen](https://via.placeholder.com/300x600?text=Home+Screen) | ![Flow](https://via.placeholder.com/300x600?text=Prototype+Flow) |
+| Layar Pembuka | Beranda (Home) | Kalkulator Gizi |
+|---|---|---|
+| ![Layar Pembuka](./figma%20pelita/Layar%20Pembuka.png) | ![Home](./figma%20pelita/Home.png) | ![Kalkulator Gizi](./figma%20pelita/Kalkulator%20Gizi%201.png) |
 
-> **Catatan:** Anda dapat melihat desain lengkap dan mencoba prototype interaktif langsung melalui [Link Figma Proyek](https://www.figma.com/design/FhsV4fWjx3VstlG7Kd2fjh/Pelita?node-id=2052-1969).
+| Konsultasi | Profil Pengguna | Onboarding |
+|---|---|---|
+| ![Konsultasi](./figma%20pelita/Konsultasi.png) | ![Profil](./figma%20pelita/Profil.png) | ![Onboarding](./figma%20pelita/03%20-%20A%20-%20Onboarding.png) |
 
 ## 🚀 Alur Pengguna (User Flow)
-1. **Onboarding:** Pengenalan singkat fitur utama aplikasi.
-2. **Authentication:** Login dan Registrasi yang cepat.
-3. **Main Dashboard:** Akses ke fitur utama [sebutkan fitur utama].
-4. **Transaction/Action:** Proses penyelesaian tugas utama di dalam aplikasi.
+1. **Onboarding:** Pengguna disambut dengan informasi manfaat utama aplikasi Pelita.
+2. **Authentication:** Proses Login, Registrasi (Buat Akun), hingga fitur Lupa Password.
+3. **Main Dashboard:** Halaman utama yang menampilkan ringkasan informasi kesehatan.
+4. **Health Action:** Pengguna menggunakan fitur Kalkulator Gizi atau masuk ke menu Konsultasi.
+5. **Settings:** Mengatur preferensi aplikasi dan keamanan akun di menu Pengaturan.
 
 ## 🛠️ Teknologi & Aset
 * **Design Tool:** Figma
-* **Methodology:** Design Thinking
-* **Typography:** [Sebutkan font, misal: Poppins / Inter]
-* **Icons:** Lucide Icons / Material Design Icons
+* **Aset Gambar:** PNG Exported
+* **Metodologi:** User-Centered Design (UCD)
+* **Font:** Inter / Poppins (Sesuai spesifikasi desain)
 
-## 📂 Cara Menggunakan Repositori Ini
-Jika Anda ingin mengembangkan desain ini ke dalam kode (Development):
-1. **Clone repositori ini:**
-   ```bash
-   git clone [https://github.com/MuhamadHata/Projek-Aplikasi-Mobile-Pelita.git](https://github.com/MuhamadHata/Projek-Aplikasi-Mobile-Pelita.git)
+---
+
+## 👤 Author
+**Muhamad Hata** UI/UX Enthusiast & Mobile Developer  
+[GitHub @MuhamadHata](https://github.com/MuhamadHata)
+
+---
+*Copyright © 2026 Muhamad Hata. Desain ini dibuat sebagai bagian dari portofolio pengembangan aplikasi mobile.*
